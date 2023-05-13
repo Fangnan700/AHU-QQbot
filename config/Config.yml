@@ -1,0 +1,9 @@
+GptHost: ""
+GptProxy: ""
+GptModel: ""
+GptKeys: []
+RedisHost: ""
+RedisPass: ""
+CqHttpHost: ""
+CqHttpPath: ""
+AhuCalendarStartDate: ""
